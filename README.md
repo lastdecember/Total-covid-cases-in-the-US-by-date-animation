@@ -43,5 +43,7 @@ simplified %>%
        subtitle = "data from CDC")
 ```
 
-Voila! Just wait to see the animated plot. It is surprisingly simple and effective for our simple demonstration. It is really convenient to work with `tidyverse` and `ggplot`. It opens a new gate for using R to analyze data. And the book R4DS is awesome starting point. Not only it introduces this beautiful way to use R with a thorough explanation, it also gives you a feeling how it is like to work with data in real life. I am very glad I started to read this book.
+![theplot!](covidus.gif) 
+
+Voila! Just wait to see the animated plot. It is surprisingly simple and effective for this demonstration. It is really convenient to work with `tidyverse` and `ggplot`. It opens a new gate for using R to analyze data. And the book R4DS is awesome starting point. Not only it introduces this beautiful way to use R with a thorough explanation, it also gives you a feeling how it is like to work with data in real life. I am very glad I started to read this book.
 
